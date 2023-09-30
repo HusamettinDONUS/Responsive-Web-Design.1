@@ -147,7 +147,6 @@ body {
 /* End Header */
 /* Start Landing Section */
 .landing {
-  background-image: url(../images/landing.jpg);
   background: linear-gradient(
     var(--section-background),
     var(--main-color),
